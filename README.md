@@ -1,4 +1,7 @@
 # Audio-Quality-Identification
+
+##### Add the python file to the directory containing the dataset.
+
 To get F1,Precision Recall for Silero with 32ms frames,32ms hop run the frame_wise_32_silero. It takes in 4 parameters 
 
 * the hop size (give 32 for this file)
