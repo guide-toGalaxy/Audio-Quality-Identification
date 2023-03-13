@@ -6,7 +6,7 @@ import pydub
 import webrtcvad
 import os
 import numpy as np
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 from scipy.io import wavfile
 import scipy.io
 import csv

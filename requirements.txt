@@ -1,0 +1,15 @@
+libraries required to run the files
+
+frame_wise_WEBRTC.py:
+1.wave
+2.pydub
+3.webrtcvad
+4.scipy
+5.csv
+
+
+Silero Files:
+pytorch >= 1.12.0
+torchaudio >= 0.9.0 
+csv
+scipy

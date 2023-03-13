@@ -2,7 +2,7 @@ from glob import glob
 import sys
 import csv
 import os
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 import numpy as np
 from scipy.io import wavfile
 import scipy.io
